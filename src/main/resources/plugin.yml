@@ -1,0 +1,5 @@
+name: VanillaChat
+version: '${project.version}'
+main: it.giopav.vanillachat.VanillaChat
+api-version: 1.19
+authors: [ Giopav ]
