@@ -1,5 +1,5 @@
 # VanillaChat
-This plugin just modifies player-sent messages, it may not work with other plugins that handle chat messages (as some plugins just remove the player-sent message with a server-sent message disguised as one).
+This Minecraft plugin just modifies player-sent messages, it may not work with other plugins that handle chat messages (as some plugins just remove the player-sent message with a server-sent message disguised as one).
 
 If you don't know what Legacy and MiniMessage formatting is, I suggest you read [Kyori adventure's documentation](https://docs.adventure.kyori.net/index.html) as it is very well-made and satisfying to read.
 
