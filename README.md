@@ -31,4 +31,6 @@ Some MiniMessage examples:
 
 As a side note, I use the *brilliantly* made [coolors.co](https://coolors.co/generate) website to generate color palettes, **strikingly beautiful**.
 
-[^1]: For legacy tags I mean parts of the string that start with & and are followed by any valid character (ex. &a, &7, &l, &r).
+[^1]: For legacy tags I mean parts of the string that start with & and are followed by any valid character[^2] (ex. &a, &7, &l, &r).
+
+[^2]: Exactly 0123456789abcdefklmnor

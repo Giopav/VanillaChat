@@ -15,7 +15,7 @@ public class ChatListener implements Listener {
     public void onAsyncChatEvent(AsyncChatEvent event) {
         String messageString = PlainTextComponentSerializer.plainText().serialize(event.message());
         Component component;
-        if (Pattern.matches(".*&[0-9a-f].*", messageString)) {
+        if (Pattern.matches(".*&[0-9a-fk-or].*", messageString)) {
             component = LegacyComponentSerializer.legacyAmpersand().deserialize(messageString);
         } else {
             component = MiniMessage.miniMessage().deserialize(messageString);
