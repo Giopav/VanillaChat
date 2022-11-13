@@ -29,6 +29,8 @@ Some MiniMessage examples:
 
 ![image](https://user-images.githubusercontent.com/43653262/197390538-516f5745-ebf1-4ceb-b9ef-21062d92da66.png)
 
+If a string contains Legacy and MiniMessage tags, it will be treated as Legacy.
+
 As a side note, I use the *brilliantly* made [coolors.co](https://coolors.co/generate) website to generate color palettes, **strikingly beautiful**.
 
 [^1]: For legacy tags I mean parts of the string that start with & and are followed by any valid character[^2] (ex. &a, &7, &l, &r).
